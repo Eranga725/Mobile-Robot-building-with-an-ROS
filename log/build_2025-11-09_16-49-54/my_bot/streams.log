@@ -1,0 +1,63 @@
+[0.027s] Invoking command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS -DCMAKE_INSTALL_PREFIX=/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot
+[0.459s] -- The C compiler identification is GNU 9.4.0
+[0.754s] -- The CXX compiler identification is GNU 9.4.0
+[0.840s] -- Check for working C compiler: /usr/bin/cc
+[0.971s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.974s] -- Detecting C compiler ABI info
+[1.099s] -- Detecting C compiler ABI info - done
+[1.108s] -- Detecting C compile features
+[1.108s] -- Detecting C compile features - done
+[1.112s] -- Check for working CXX compiler: /usr/bin/c++
+[1.239s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.239s] -- Detecting CXX compiler ABI info
+[1.361s] -- Detecting CXX compiler ABI info - done
+[1.369s] -- Detecting CXX compile features
+[1.369s] -- Detecting CXX compile features - done
+[1.387s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.412s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.412s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.632s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.704s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.719s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.719s] -- Configured cppcheck include dirs: 
+[1.719s] -- Configured cppcheck exclude dirs and/or files: 
+[1.725s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.725s] -- Configured cpplint exclude dirs and/or files: 
+[1.726s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.728s] -- Added test 'lint_cmake' to check CMake code style
+[1.730s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.736s] -- Added test 'uncrustify' to check C / C++ code style
+[1.736s] -- Configured uncrustify additional arguments: 
+[1.737s] -- Added test 'xmllint' to check XML markup files
+[1.741s] -- Configuring done
+[1.744s] -- Generating done
+[1.746s] -- Build files have been written to: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot
+[1.750s] Invoked command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS -DCMAKE_INSTALL_PREFIX=/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot
+[1.753s] Invoking command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot -- -j12 -l12
+[1.790s] Invoked command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot -- -j12 -l12
+[1.802s] Invoking command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot
+[1.809s] -- Install configuration: ""
+[1.809s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/config
+[1.811s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/config/empty.yaml
+[1.812s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/description
+[1.812s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[1.813s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/launch
+[1.813s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/launch/rsp.launch.py
+[1.814s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/worlds
+[1.814s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/worlds/empty.world
+[1.817s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[1.817s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[1.818s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[1.818s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[1.818s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/environment/path.sh
+[1.818s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/environment/path.dsv
+[1.818s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/local_setup.bash
+[1.819s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/local_setup.sh
+[1.819s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/local_setup.zsh
+[1.819s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/local_setup.dsv
+[1.819s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/package.dsv
+[1.820s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[1.820s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[1.820s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[1.820s] -- Installing: /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/package.xml
+[1.822s] Invoked command in '/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/build/my_bot
