@@ -1,4 +1,5 @@
 /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/config/empty.yaml
+/home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/hansana_eranga/ros2_ws/src/Mobile-Robot-building-with-an-ROS/install/my_bot/share/my_bot/worlds/empty.world
